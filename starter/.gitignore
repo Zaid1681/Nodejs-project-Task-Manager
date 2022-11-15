@@ -1,0 +1,4 @@
+# ignoring tehe data to push on github
+
+/node_modules
+.env
